@@ -14,8 +14,7 @@ namespace RockPaperScissorGame
     /* Name: Daryl Johnson
      * Date: 1/29/2019
      * Project: Rock Paper and Scissor
-     * Description: This is a rock paper scissor game that is one player.
-     * Teacher: Ms.White 
+     * Description: This is a rock paper scissor game that is one player
     */
 
     public partial class RockPaperScissors : Form
