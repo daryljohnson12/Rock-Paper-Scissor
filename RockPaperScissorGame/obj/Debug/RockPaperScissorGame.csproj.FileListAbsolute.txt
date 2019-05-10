@@ -1,0 +1,11 @@
+C:\Users\Safet\source\repos\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.exe.config
+C:\Users\Safet\source\repos\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.exe
+C:\Users\Safet\source\repos\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.pdb
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.csprojAssemblyReference.cache
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.Properties.Resources.resources
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.RockPaperScissors.resources
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.csproj.GenerateResource.cache
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.csproj.CoreCompileInputs.cache
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.exe
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.pdb
+C:\Users\Safet\source\repos\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.SplashScreen.resources
